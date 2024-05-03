@@ -1,6 +1,6 @@
 ## GoTHAM-stack
 
-A tech stack for creating modern web applications in the simplest way possible. 
+A tech stack for creating modern web applications in the simplest way possible. Read the [Quickstart Guide](https://github.com/ManitVig/GoTHAM-starter-app) to get started.
 
 ## What is GoTHAM?
 
@@ -80,6 +80,4 @@ Anyone who wants to build a web app whether you are  beginner who is just starti
 
 ## Example Apps/Resources for Getting Started
 
-Currently there are no specific resources for getting started with the GoTHAM stack. For the time being the best option is to research about and learn the individual components separately from resources available for them on youtube, their respective webpages or elsewhere on the internet.
-
-I have some stuff in the works related to GoTHAM stack and I will add link them here when they are ready to be public. Community input is also highly encouraged if anyone has some projects based on the technologies of GoTHAM and would like them to featured here please raise an issue on this github repo and I'll be sure to respond.
+1. Example App and quickstart guide for scaffolding a GoTHAM project: https://github.com/ManitVig/GoTHAM-starter-app
